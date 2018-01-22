@@ -1,5 +1,5 @@
 # android-custom-dialog
-android custom dialog with onclicklistener
+**android custom dialog with OnClickListener**
 
 >usage :
 
