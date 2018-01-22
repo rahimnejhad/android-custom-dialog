@@ -9,12 +9,12 @@ final CustomDialogClass mCustomDialogClass = new CustomDialogClass(getActivity()
 	public void onClick(int mId, Dialog dialog) {
 		switch (mId) {
 			case R.id.btn_yes:
-			
+				Toast.makeText(getContext(), "yes", Toast.LENGTH_SHORT).show();
 				dialog.dismiss();
 				break;
 
 			case R.id.btn_no:
-				Crop.pickImage(getContext(), Fragment_Home_Profile.this);
+				Toast.makeText(getContext(), "no", Toast.LENGTH_SHORT).show();
 				dialog.dismiss();
 				break;
 			case R.id.btn_man:
