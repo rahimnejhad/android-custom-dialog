@@ -1,4 +1,4 @@
-package com.pakage.name;
+package com.package.name;
 
 import android.app.Activity;
 import android.app.Dialog;
@@ -8,7 +8,7 @@ import android.view.Window;
 import android.widget.Button;
 import android.widget.Toast;
 
-import com.pakage.name.R;
+import com.package.name.R;
 
 /**
  * Created by Rahimnejhad on 1/22/2018.
