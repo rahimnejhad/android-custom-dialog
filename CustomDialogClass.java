@@ -1,4 +1,4 @@
-package com.hamavaran.starland.Utility.dialog;
+package com.pakage.name;
 
 import android.app.Activity;
 import android.app.Dialog;
@@ -8,7 +8,7 @@ import android.view.Window;
 import android.widget.Button;
 import android.widget.Toast;
 
-import com.hamavaran.starland.R;
+import com.pakage.name.R;
 
 /**
  * Created by Rahimnejhad on 1/22/2018.
