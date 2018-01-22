@@ -1,8 +1,9 @@
 # android-custom-dialog
 android custom dialog with onclicklistener
 
-usage :
+>usage :
 
+```
 final CustomDialogClass mCustomDialogClass = new CustomDialogClass(getActivity(), new CustomDialogClass.MyOnClickListener() {
 	@Override
 	public void onClick(int mId, Dialog dialog) {
@@ -27,3 +28,4 @@ final CustomDialogClass mCustomDialogClass = new CustomDialogClass(getActivity()
 });
 
 mCustomDialogClass.show();
+```
